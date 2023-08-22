@@ -6,4 +6,4 @@ Clone repository using:
 ```
 git clone https://github.com/Leonidasw/Julia-set-generator.git
 ```
-Run the file np.py and you will obtain a menu where you may control the 2 values of the Julia set equation, press go and you will get the result that you may download as an image
+Run the file np.py and you will obtain a menu where you may control the 2 values of the Julia set equation, press **Go** and you will get the result that you may download as an image
